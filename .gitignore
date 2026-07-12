@@ -1,0 +1,21 @@
+# Dependencies
+node_modules/
+.python-packages/
+__pycache__/
+*.pyc
+.venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# Fable-5
+.fable/
+fable.toml
+.pytest_cache/
+
+# Python cache
+*.egg-info/
